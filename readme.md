@@ -1,16 +1,17 @@
 # project description
+# contribute to our classroom show-and-tell
 
-#### get this
+## 1 get this
 git clone https://github.com/technologyteacher2020/2020-02-pearson.git
 
-#### open the world in Minecraft Education Edition
+## 2 open the world in Minecraft Education Edition
 4.OA.4 Finding Factors.mcworld 
 
-#### execute the JavaScript code
+#### 3 execute the JavaScript code
 
-#### code some art piece in a numbered section
+#### 4 code some art piece in a numbered section
 
-#### submit pull request
+#### 5 submit pull request
 
 #### notice: JavaScript modifications only
 
