@@ -1,20 +1,20 @@
-## project description
+# project description
 
-# get this
+#### get this
 git clone https://github.com/technologyteacher2020/2020-02-pearson.git
 
-# open the world in Minecraft Education Edition
+#### open the world in Minecraft Education Edition
 4.OA.4 Finding Factors.mcworld 
 
-# execute the JavaScript code
+#### execute the JavaScript code
 
-# code some art piece in a numbered section
+#### code some art piece in a numbered section
 
-# submit pull request
+#### submit pull request
 
-# notice: JavaScript modifications only
+#### notice: JavaScript modifications only
 
 
-## acknowledgements
+### acknowledgements
 mcworld generated from template by Minecraft Education Edition
 
